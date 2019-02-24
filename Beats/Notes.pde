@@ -1,0 +1,17 @@
+public final float C4 = 261.63;
+public final float Cs4 = 277.18;
+public final float D4 = 293.66;
+public final float Ds4 = 311.13;
+public final float E4 = 329.63;
+public final float F4 = 349.23;
+public final float Fs4 = 369.99;
+public final float G4 = 392.00;
+public final float Gs4 = 415.30;
+public final float A4 = 440.00;
+public final float As4 = 466.16;
+public final float B4 = 493.88;
+public final float C5 = 523.25;
+public final float Cs5 = 554.37;
+public final float D5 = 587.33;
+public final float Ds5 = 622.25;
+public final float E5 = 659.25;
